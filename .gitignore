@@ -1,0 +1,6 @@
+*.exe
+*.ahk
+*.py
+*.zip
+updates/
+macro-source/
